@@ -1,4 +1,6 @@
----
+---OWNER:NAME:JUAN.D.CHAVEZ
+]OWNER:SSN:623960967[do not show owner:ssn
+owner.000101@gmail.com
 title: GitHub Pages Documentation
 shortTitle: GitHub Pages
 intro: 'You can create a website directly from a repository on {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %}.'
